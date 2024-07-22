@@ -1,6 +1,6 @@
-* .o
+*.o
 *.obj
-* .exe
-* .dll
-* .idea
-* .swp
+*.exe
+*.dll
+*.idea
+*.swp
