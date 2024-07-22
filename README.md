@@ -2,9 +2,9 @@
 
 # TutoGit
 
-Este proyecto es para aprender un poco mas sobre el control de versiones, practicando el como crear archivos y y editarlos para luego subirlos al repositorio local y al final subirlos al repositorio remoto ademas de tambien tener claras algunas definiciones relacionadas al control de versiones
+Este proyecto es para aprender un poco mas sobre el control de versiones, al practicar el como crear archivos y y editarlos para luego subirlos al repositorio local y al final subirlos al repositorio remoto ademas de configuarar el gitignore, el README y afianzar conceptos relacionados con el control de versiones  
 
-# ¿Como clonar un repositorio?
+## ¿Como clonar un repositorio?
 
 Para clonar un repositorio remoto a un equipo o maquina se necesita: 
 
@@ -15,5 +15,12 @@ Para clonar un repositorio remoto a un equipo o maquina se necesita:
 5. escribe el comando "git clone [link]" en la parte de link se pega el link del repositorio (sin los corchetes)
 6. presiona la tecla "ENTER"
 
+## Evidencia
+
+En este Arhivo estaran incluidos algunos conceptos relacionados al control de versiones, ademas de los comandos utilizados para crear y editar este repositorio
+
+## Gitignore
+
+En este archivo estaran configurados los archivos que no son necesarios a la hora de subirlos al repositorio remoto, haciendo que el repositorio remoto los ignore lo cual tambien ayuda a que el proyecto no sea tan pesado o se suba con un archivo o con una configuracion que genere algun error a la hora de clonarlo en otro equipo o maquina
 
 
