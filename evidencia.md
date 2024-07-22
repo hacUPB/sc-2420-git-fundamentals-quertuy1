@@ -7,12 +7,12 @@
 
 ## Comando usados desde la consola ara la gestion de repositiorios
 
-cd : para cambiar de directorio
-touch : crear archivos
-mkdir: crear directorios(carpetas)
-git add : agregar archivos o carpetas al Stage
-git commit : subir los archivos del stage al repositorio locar
-git push : subir los archivos al repositorio remoto
+*cd : para cambiar de directorio
+*touch : crear archivos
+*mkdir: crear directorios(carpetas)
+*git add : agregar archivos o carpetas al Stage
+*git commit : subir los archivos del stage al repositorio locar
+-git push : subir los archivos al repositorio remoto
 
 ## Repositorio
 
