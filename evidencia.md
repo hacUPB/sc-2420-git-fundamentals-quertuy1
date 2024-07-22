@@ -19,3 +19,4 @@ git push : subir los archivos al repositorio remoto
 ### un repositorio es una forma de guardar un trabajo o un proyecto es una nube la cual puede ser en remoto o local git seria la forma local y github seria la forma remota lo cual ayuda respecto a la sincronizacion y da mucha facilidad a la hora de trabajar desde diferentes equipos 
 
 
+
