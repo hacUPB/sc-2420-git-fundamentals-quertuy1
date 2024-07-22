@@ -6,8 +6,14 @@ Este proyecto es para aprender un poco mas sobre el control de versiones, practi
 
 # ¿Como clonar un repositorio?
 
-para clonar un repositorio remoto a un equipo o maquina, primero se necesita entrar al repositorio al cual se quiere clonar 
+Para clonar un repositorio remoto a un equipo o maquina se necesita: 
 
+1. entrar al repositorio al cual se quiere clonar 
+2. ir a la pestaña de code
+3. En la pestaña de HTTPS copiar el link del repositorio
+4. se abre el git bash y se posiciona en el directorio le cual quiere clonar el repositorio
+5. escribe el comando "git clone [link]" en la parte de link se pega el link del repositorio (sin los corchetes)
+6. presiona la tecla "ENTER"
 
 
 
